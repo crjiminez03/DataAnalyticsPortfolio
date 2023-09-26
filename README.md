@@ -7,7 +7,6 @@ Business Intelligence / Systems II Analyst</a> | Cybersecurity Professional
 - <h2>Foundations of Data Science (Coursera)</h2>
 
   - Obtained Skills: Sharing Insights With Stakeholders | Effective Written Communication | Asking Effective Questions | Cross-Functional Team Dynamics | Project Management |
-  - Credential ID:  UA22YF728JV8 | Issue Date/ Exp Date: August 2023 / N/A |
   - [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/UA22YF728JV8)
 
   - <b>Portfolio Activities<b/>:
@@ -25,7 +24,6 @@ Business Intelligence / Systems II Analyst</a> | Cybersecurity Professional
 - <h2>Get Started with Python (Coursera)</h2>
 
   - Obtained Skills: Using Comments to Enhance Code Readability | Python Programming | Jupyter Notebook | Data Visualization (DataViz) | Coding | Syntax & Semantics | Loops, Control Statements, String Manipulation | Data structures to store and organize data |
-  - Credential ID:  KM5JJ3U5J3WV | Issue Date/ Exp Date: September 2023 / N/A |
   - [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/KM5JJ3U5J3WV)
 
   - <b>Portfolio Activities</b>:
@@ -41,7 +39,6 @@ Business Intelligence / Systems II Analyst</a> | Cybersecurity Professional
 - <h2>Go Beyond the Numbers: Translate Data into Insights (Coursera)</h2>
 
   - Obtained Skills: Python Programming | Tableau Software | Data Visualization (DataViz) | Effective Communication | Exploratory Data Analysis | EDA Process | Benefits of structuring & cleaning data | Tableau |
-  - Credential ID:  CQ4WEJ7SUPMH | Issue Date/ Exp Date: September 2023 / N/A |
   - [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/CQ4WEJ7SUPMH)
 
   - <b>Portfolio Activities</b>:
