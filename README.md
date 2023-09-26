@@ -36,5 +36,19 @@ Business Intelligence / Systems II Analyst</a> | Cybersecurity Professional
     - Unicorn Companies/ Structure your Data: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Advanced%20Data%20Analytics/Htmls/Activity_Structure%20your%20data%20Course%203.html
     - Unicorn Companies/ Validate & Clean your Data: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Advanced%20Data%20Analytics/Htmls/Activity_Validate%20and%20clean%20your%20data%20Course%203.html
 
--<b>Tableau Projects:</b>
- - https://public.tableau.com/views/Craftcompellingstories_16949761318150/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+ -<b>Waze Project</b>:
+ - Waze Executive Summary: https://docs.google.com/presentation/d/e/2PACX-1vQ_Uj-iZrZBSWqAmZHpxlJPM5K-pVgB70Q0Ts713ZGkwPWe8FVJ0meyohMaJPMiXtrXpTD5_cICXXYs/pub?start=false&loop=false&delayms=3000&slide=id.g1e3a6309cc6_3_316
+ - Python Section: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Advanced%20Data%20Analytics/Htmls/Activity_Course%203%20Waze%20project%20lab.html
+
+ -<b>Automatidata Project</b>:
+ - Automatidata Executive Summary: https://docs.google.com/presentation/d/e/2PACX-1vSco5MpMcdlnCcVdjCrhT8dDgR02y1ckcHp8o8KwjgaHHTEFLNf9_gEQ8jf5wMdrzqlTBpRUA5-iy9z/pub?start=false&loop=false&delayms=3000&resourcekey=0--8jdFr5PPeKin2XDG34m_w&slide=id.g1e3a6309cc6_3_316
+ - Python Section: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Advanced%20Data%20Analytics/Htmls/Activity_Course%203%20Automatidata%20project%20lab.html
+ - ![Dashboard 1 (1)](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/assets/130426595/8d1b8c84-2107-47bd-8c23-a6f60849f55a)
+
+ -<b>TikTok Project</b>:
+ - TikTok Executive Summary: https://docs.google.com/presentation/d/e/2PACX-1vR5wydxLxEvnAkhYiCNQ_pKAW1T1NPiqHCaGnPP63nhy_EsDlnNRkoPAK_GRbg6RiLMUYZoz4hlA0hU/pub?start=false&loop=false&delayms=3000
+ - Python Section: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Advanced%20Data%20Analytics/Htmls/Activity_Course%203%20TikTok%20project%20lab.html
+ - ![Story 1 TikTok](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/assets/130426595/d44ff9f8-74ba-4554-9537-5f15c3c6624d)
+ - ![Story 2 Tiktok](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/assets/130426595/eea3a1ab-540b-4ec2-8a46-a3a9fc6b0e7f)
+
+ 
