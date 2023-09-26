@@ -57,7 +57,7 @@ Business Intelligence / Systems II Analyst</a> | Cybersecurity Professional
       - [TikTok Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/6b367ddde1008e6802aeaf76deb319491714fb2b/Python/Activity_Course%203%20TikTok%20project%20lab.ipynb)
       
      - [Waze Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vQ_Uj-iZrZBSWqAmZHpxlJPM5K-pVgB70Q0Ts713ZGkwPWe8FVJ0meyohMaJPMiXtrXpTD5_cICXXYs/pub?start=false&loop=false&delayms=3000&slide=id.g1e3a6309cc6_3_316)
-        - Waze Python Section: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Advanced%20Data%20Analytics/Htmls/Activity_Course%203%20Waze%20project%20lab.html
+     - [Waze Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/dcb575e3ed8ab8faff51b5fba6919a876b882209/Python/Activity_Course%203%20Waze%20project%20lab.ipynb)
 
 
 
