@@ -50,11 +50,11 @@ Business Intelligence / Systems II Analyst</a> | Cybersecurity Professional
     - [<b>Seoul Bicycle Rental Traffic-Times of Standard Workdays (Removal of Bicycles from Circulation for Maintenance)</b>](https://public.tableau.com/views/ActivitySeoulbicyclerentaldatasetbargraph/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
      - [Automatidata Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vSco5MpMcdlnCcVdjCrhT8dDgR02y1ckcHp8o8KwjgaHHTEFLNf9_gEQ8jf5wMdrzqlTBpRUA5-iy9z/pub?start=false&loop=false&delayms=3000&resourcekey=0--8jdFr5PPeKin2XDG34m_w&slide=id.g1e3a6309cc6_3_316)
      - [Automatidata Tableau Visual](https://public.tableau.com/views/AutomatidataProject_16950788981990/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
-      - [Automatidata Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/7b5be1acb6a2b6db69ca7e95f329156b6580e58f/Python/Activity_Course%203%20Automatidata%20project%20lab.ipynb)
+     - [Automatidata Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/7b5be1acb6a2b6db69ca7e95f329156b6580e58f/Python/Activity_Course%203%20Automatidata%20project%20lab.ipynb)
 
      - [TikTok Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vR5wydxLxEvnAkhYiCNQ_pKAW1T1NPiqHCaGnPP63nhy_EsDlnNRkoPAK_GRbg6RiLMUYZoz4hlA0hU/pub?start=false&loop=false&delayms=3000)
      - [TikTok Tableau Visual](https://public.tableau.com/views/TikTokProject_16950909946600/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
-        - TikTok Python Section: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Advanced%20Data%20Analytics/Htmls/Activity_Course%203%20TikTok%20project%20lab.html
+     - [TikTok Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/6b367ddde1008e6802aeaf76deb319491714fb2b/Python/Activity_Course%203%20TikTok%20project%20lab.ipynb)
       
      - [Waze Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vQ_Uj-iZrZBSWqAmZHpxlJPM5K-pVgB70Q0Ts713ZGkwPWe8FVJ0meyohMaJPMiXtrXpTD5_cICXXYs/pub?start=false&loop=false&delayms=3000&slide=id.g1e3a6309cc6_3_316)
         - Waze Python Section: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Advanced%20Data%20Analytics/Htmls/Activity_Course%203%20Waze%20project%20lab.html
