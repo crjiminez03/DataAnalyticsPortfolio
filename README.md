@@ -1,6 +1,7 @@
 <h1>Hi, I'm Christopher! </h1>
 Business Intelligence / Systems II Analyst</a> | Cybersecurity Professional
-<h2>👨‍💻 Google Advanced Data Analytics Professional Certificate:</h2> 
+<h2>👨‍💻 Google Advanced Data Analytics Professional Certificate Portfolio:</h2>
+
 
 
 - <h2>Foundations of Data Science (Coursera)</h2>
