@@ -54,7 +54,7 @@ Business Intelligence / Systems II Analyst</a> | Cybersecurity Professional
 
      - [TikTok Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vR5wydxLxEvnAkhYiCNQ_pKAW1T1NPiqHCaGnPP63nhy_EsDlnNRkoPAK_GRbg6RiLMUYZoz4hlA0hU/pub?start=false&loop=false&delayms=3000)
      - [TikTok Tableau Visual](https://public.tableau.com/views/TikTokProject_16950909946600/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
-     - [TikTok Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/6b367ddde1008e6802aeaf76deb319491714fb2b/Python/Activity_Course%203%20TikTok%20project%20lab.ipynb)
+      - [TikTok Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/6b367ddde1008e6802aeaf76deb319491714fb2b/Python/Activity_Course%203%20TikTok%20project%20lab.ipynb)
       
      - [Waze Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vQ_Uj-iZrZBSWqAmZHpxlJPM5K-pVgB70Q0Ts713ZGkwPWe8FVJ0meyohMaJPMiXtrXpTD5_cICXXYs/pub?start=false&loop=false&delayms=3000&slide=id.g1e3a6309cc6_3_316)
         - Waze Python Section: file:///C:/Users/crjim/OneDrive/Desktop/Google%20Advanced%20Data%20Analytics/Htmls/Activity_Course%203%20Waze%20project%20lab.html
