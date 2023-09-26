@@ -51,4 +51,17 @@ Business Intelligence / Systems II Analyst</a> | Cybersecurity Professional
  - ![Story 1 TikTok](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/assets/130426595/d44ff9f8-74ba-4554-9537-5f15c3c6624d)
  - ![Story 2 Tiktok](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/assets/130426595/eea3a1ab-540b-4ec2-8a46-a3a9fc6b0e7f)
 
+ -<b>Tableau Projects for Go Beyond the Numbers: Translate Data into Insights :</b>
  
+  - <b>Lightning Strikes in the U.S. Over the Last Decade</b>: https://public.tableau.com/views/Craftcompellingstories_16949761318150/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+  - ![Story   lightning1](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/assets/130426595/6e3f0688-0fa5-44cc-917d-a4354dc371d9)
+
+  - ![Story   lightning2](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/assets/130426595/8bbec826-80da-4eb6-a98f-4f16b7e17c25)
+
+  - <b>Bike Rental Maintance Schedule(Impact of National Holidays on Bicycle Rentals in 2017 & 2018 for the Transportation Department in Seoul, South Korea)</b>: https://public.tableau.com/views/ActivityBuildaninteractivedashboard_16949962613530/SeoulBikeRentalsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+  - ![Seoul Bike Rentals Dashboard](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/assets/130426595/6d7d4acb-fdf4-4bec-832d-d27fd3c24960)
+
+  - <b>Seoul Bicycle Rental Traffic-Times of Standard Workdays (Removal of Bicycles from Circulation for Maintenance)</b>: https://public.tableau.com/views/ActivitySeoulbicyclerentaldatasetbargraph/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+![Dashboard 1](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/assets/130426595/e0cd842f-c00e-421f-a96f-b64655cbdfe0)
+
+
