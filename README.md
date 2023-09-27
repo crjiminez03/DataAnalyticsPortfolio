@@ -29,11 +29,11 @@ I am Christopher Jiminez, a seasoned Business Intelligence and Systems II Analys
 
   - <b>Portfolio Activities</b>:
     - [Automatidata Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vTss58QwWBu0PAuQbYzH13tQYh448Q-xG8HeModqjnAF6-WBQ1j6sNCt5jeq1Ed_uVKVH1Lo3LNEulQ/pub?start=false&loop=false&delayms=3000)
-       - [Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/4b81e961e3279094c732b6412d6b539a48eb2ec7/Activity_Course%202%20Automatidata%20project%20lab.ipynb)
+    - [Automatidata Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/4b81e961e3279094c732b6412d6b539a48eb2ec7/Activity_Course%202%20Automatidata%20project%20lab.ipynb)
     - [TikTok Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vTZSEWVlFNReCHWGgmaxbSwvCa0tTsSEuUgCryIsHTbJS_3NFUqtPEDAhXBU4paaFBFmFdCcWd2LlYs/pub?start=false&loop=false&delayms=3000)
-       - [Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/40a1409f5d399aa261998c6fb971a3b0a0a373d6/Activity_Course%202%20TikTok%20project%20lab.ipynb) 
+    - [TikTok Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/40a1409f5d399aa261998c6fb971a3b0a0a373d6/Activity_Course%202%20TikTok%20project%20lab.ipynb) 
     - [Waze Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vRM9F5Yl0Bp4U4JCJw7jdAfMfJCjeb7780bXfHRSxPb5u96z-WmqgrVNpo0zfUdF3Dgt57Uk5tDTP8P/pub?start=false&loop=false&delayms=3000)
-       - [Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/10cc952dd49b2a979d5aa1156bba60cfc914ba83/Activity_Course%202%20Waze%20project%20lab.ipynb)
+    - [Waze Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/10cc952dd49b2a979d5aa1156bba60cfc914ba83/Activity_Course%202%20Waze%20project%20lab.ipynb)
      
 
 
