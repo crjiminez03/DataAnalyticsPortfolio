@@ -12,7 +12,7 @@ I am Christopher Jiminez, a seasoned Business Intelligence and Systems II Analys
 
   - <b>Portfolio Activities<b/>:
       - [PACE Strategy Document](https://docs.google.com/document/d/e/2PACX-1vRHMsJQgB5iav5OHh9TWuQZUeAyS_5HdGOJI-WX-UkWIcU5XVS55C9CbJqdJSzetKCnJHD7SrfhjdXA/pub)
-      - [RACI Matrix](https://docs.google.com/document/d/e/2PACX-1vTie-RWPplViaEDCi6Frm08eEt5J9BiozQRu2X5vLEgoXwvEDY5dS09HkA_BJ4gLTjpuOhX2nlAC2Zr/pub)
+      - [RACI Matrix](https://docs.google.com/document/d/e/2PACX-1vSYBEjnODNEsyXYZfJP5jRzQ7Q3J_Vo5k_lCBhFpdqiKNSM3Yb03I6es94vCrc2r86bFMUvYjyPdms9/pub)
       - [Emails to different stakeholders](https://docs.google.com/document/d/e/2PACX-1vTop94Up1gbjImhDoz4kVke4bz_bkpPC1lanRMKaVsR8slEr4xC_iRF2dg2k0FgVoqP8FMSDk4kga7y/pub)
       - [Visitation Prediction Project Proposal](https://docs.google.com/presentation/d/e/2PACX-1vS_bEpt6Wp_BDohnSiV1IN9k1ctkT2M_b9JuTNfb8mD8LmOeUGmJj5sdxr9_Y_JtOs6cmdsYnIGKQ9u/pub?start=false&loop=false&delayms=3000&resourcekey=0-Qpf2fx3mq0Ie0BJUADxCKw&slide=id.g1467dd8d281_0_1)
       - [Visitation Prediction Project | ML Model Results](https://docs.google.com/presentation/d/e/2PACX-1vRPSBan7iGgibMflL2ok6TIfDKj8wi15dLDhmcDA3-N7LQhDEjYasXkaWlEruLGMu8EnMdNF1WK23rN/pub?start=false&loop=false&delayms=3000&resourcekey=0-qd_l59pV71iyoHdvUIdLSA&slide=id.g1512140ae02_0_793)
