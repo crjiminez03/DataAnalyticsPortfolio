@@ -1,6 +1,16 @@
 <h1>Welcome to my Data Analytics Portfolio!</h1>
 Christopher Jiminez, a seasoned Business Intelligence and Systems II Analyst, as well as a dedicated Cybersecurity Professional. Currently due to graduate with my B.S. in Data Analytics from WGU (March 2024). My recent completion of the Google Advanced Data Analytics Professional Certificate has equipped me with a comprehensive skill set to tackle complex data analytics challenges and deliver valuable insights. With a strong foundation in statistics, probability, and data science principles, I function as a Data Analyst. My experience spans utilizing Python for data manipulation and analysis, demonstrating proficiency in converting data types, exploring data through descriptive statistics, and conducting hypothesis tests. Additionally, I am adept in ethical data visualization and exploratory data analysis (EDA), enabling me to derive insights and convey data-driven narratives. My distinctive ability to align EDA methods with business objectives while ensuring data accessibility sets me apart in the field.
 
+
+<h2>SQL Queries & Additional Tableau Visuals ( Covid Deaths & Vaccinations for 2020-2021)</h2>
+
+- [Covid_Deaths Excel File](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/Excel/Covid_Deaths.xlsx)
+- [Covid_Vaccinations Excel File](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/Excel/Covid_Vaccinations.xlsx)
+- [Covid Tableau SQL Queries](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/SQL/Tableau%20Portfolio%20Project%20SQL%20Queries.sql)
+- [Tableau Viz Covid Cases / Deaths From 2020-2021](https://public.tableau.com/views/CovidDashboard2020-2021_16961137057630/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
+
 <h2>👨‍💻 Google Advanced Data Analytics Professional Certification:</h2>
 
 
