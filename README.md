@@ -1,5 +1,11 @@
 <h1>Welcome to my Data Analytics Portfolio!</h1>
-Christopher Jiminez, a seasoned Business Intelligence and Systems II Analyst, as well as a dedicated Cybersecurity Professional. Currently due to graduate with my B.S. in Data Analytics from WGU (March 2024). My recent completion of the Google Advanced Data Analytics Professional Certificate has equipped me with a comprehensive skill set to tackle complex data analytics challenges and deliver valuable insights. With a strong foundation in statistics, probability, and data science principles, I function as a Data Analyst. My experience spans utilizing Python for data manipulation and analysis, demonstrating proficiency in converting data types, exploring data through descriptive statistics, and conducting hypothesis tests. Additionally, I am adept in ethical data visualization and exploratory data analysis (EDA), enabling me to derive insights and convey data-driven narratives. My distinctive ability to align EDA methods with business objectives while ensuring data accessibility sets me apart in the field.
+
+Christopher Jiminez, a seasoned Business Intelligence and Systems II Analyst with a background in cybersecurity. Having a keen eye for detail and a commitment to ethical data practices, I am poised to contribute effectively to data-driven decision-making processes. Anticipating graduation with a B.S. in Data Analytics from WGU in March 2024, I have recently completed the Google Advanced Data Analytics Professional Certificate. This certification has equipped me with a robust skill set, enabling me to tackle intricate data analytics challenges and deliver valuable insights.
+
+My expertise extends to SQL, Tableau, and Power BI, complementing my proficiency in Python for data manipulation and analysis. I excel in converting data types, conducting hypothesis tests, and employing statistical techniques to derive meaningful conclusions. With a strong foundation in statistics, probability, and data science principles, I function as a skilled Data Analyst.
+
+I bring a unique blend of skills in ethical data visualization and exploratory data analysis (EDA). This enables me to not only uncover insights but also effectively communicate data-driven narratives. My distinctive ability lies in aligning EDA methods with business objectives, ensuring that data accessibility is optimized to meet organizational goals.
+
 
 
 <h2>SQL Queries & Additional Tableau Visuals ( Covid Deaths & Vaccinations for 2020-2021)</h2>
