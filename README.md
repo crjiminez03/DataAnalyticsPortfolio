@@ -21,7 +21,7 @@ I bring a unique blend of skills in ethical data visualization and exploratory d
 
 
 
-- <h2>Foundations of Data Science (Coursera)</h2>
+- <h2>Foundations of Data Science</h2>
 
   - Obtained Skills: Sharing Insights With Stakeholders | Effective Written Communication | Asking Effective Questions | Cross-Functional Team Dynamics | Project Management |
   - [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/UA22YF728JV8)
@@ -38,7 +38,7 @@ I bring a unique blend of skills in ethical data visualization and exploratory d
 
 
 
-- <h2>Get Started with Python (Coursera)</h2>
+- <h2>Get Started with Python</h2>
 
   - Obtained Skills: Using Comments to Enhance Code Readability | Python Programming | Jupyter Notebook | Data Visualization (DataViz) | Coding | Syntax & Semantics | Loops, Control Statements, String Manipulation | Data structures to store and organize data |
   - [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/KM5JJ3U5J3WV)
@@ -53,7 +53,7 @@ I bring a unique blend of skills in ethical data visualization and exploratory d
      
 
 
-- <h2>Go Beyond the Numbers: Translate Data into Insights (Coursera)</h2>
+- <h2>Go Beyond the Numbers: Translate Data into Insights</h2>
 
   - Obtained Skills: Python Programming | Tableau Software | Data Visualization (DataViz) | Effective Communication | Exploratory Data Analysis | EDA Process | Benefits of structuring & cleaning data | Tableau |
   - [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/CQ4WEJ7SUPMH)
