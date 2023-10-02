@@ -9,11 +9,13 @@ I bring a unique blend of skills in ethical data visualization and exploratory d
 
 
 <h2>SQL Queries & Additional Tableau Visuals ( Covid Deaths & Vaccinations for 2020-2021)</h2>
+ 
+ <b>Projects | Files | Code |</b>
 
-- [Covid_Deaths Excel File](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/Excel/Covid_Deaths.xlsx)
-- [Covid_Vaccinations Excel File](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/Excel/Covid_Vaccinations.xlsx)
-- [Covid Tableau SQL Queries](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/SQL/Tableau%20Portfolio%20Project%20SQL%20Queries.sql)
-- [Tableau Viz Covid Cases / Deaths From 2020-2021](https://public.tableau.com/views/CovidDashboard2020-2021_16961137057630/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+  - [Covid_Deaths Excel File](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/Excel/Covid_Deaths.xlsx)
+  - [Covid_Vaccinations Excel File](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/Excel/Covid_Vaccinations.xlsx)
+  - [Covid Tableau SQL Queries](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/SQL/Tableau%20Portfolio%20Project%20SQL%20Queries.sql)
+  - [Tableau Viz Covid Cases / Deaths From 2020-2021](https://public.tableau.com/views/CovidDashboard2020-2021_16961137057630/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
