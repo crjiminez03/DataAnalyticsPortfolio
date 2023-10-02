@@ -80,3 +80,6 @@ I bring a unique blend of skills in ethical data visualization and exploratory d
   
   - <b>Portfolio Activities</b> 
     - [Explore Confidence Intervals](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/4307662591cc71d95d048b9769dc2ba3484c13c7/Python/Explore%20confidence%20intervals.ipynb)
+    - [Explore Descriptive Statistics](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/e190ee4c6ffe3ad101034b89fc7437d59b09282c/Python/Explore%20descriptive%20statistics.ipynb)
+    - [Explore Probability Distributions](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/e190ee4c6ffe3ad101034b89fc7437d59b09282c/Python/Explore%20probability%20distributions.ipynb)
+    - [Explore Sampling](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/e190ee4c6ffe3ad101034b89fc7437d59b09282c/Python/Explore%20sampling.ipynb)
