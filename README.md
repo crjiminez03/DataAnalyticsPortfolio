@@ -86,3 +86,4 @@ I bring a unique blend of skills in ethical data visualization and exploratory d
     - [Explore Descriptive Statistics](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/e190ee4c6ffe3ad101034b89fc7437d59b09282c/Python/Explore%20descriptive%20statistics.ipynb)
     - [Explore Probability Distributions](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/e190ee4c6ffe3ad101034b89fc7437d59b09282c/Python/Explore%20probability%20distributions.ipynb)
     - [Explore Sampling](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/e190ee4c6ffe3ad101034b89fc7437d59b09282c/Python/Explore%20sampling.ipynb)
+    - [Explore Hypothesis Testing](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/469854542e915afec80df0c6de2a3bfb6a0a5516/Python/Explore%20hypothesis%20testing.ipynb)
