@@ -87,3 +87,5 @@ I bring a unique blend of skills in ethical data visualization and exploratory d
     - [Explore Probability Distributions](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/e190ee4c6ffe3ad101034b89fc7437d59b09282c/Python/Explore%20probability%20distributions.ipynb)
     - [Explore Sampling](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/e190ee4c6ffe3ad101034b89fc7437d59b09282c/Python/Explore%20sampling.ipynb)
     - [Explore Hypothesis Testing](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/469854542e915afec80df0c6de2a3bfb6a0a5516/Python/Explore%20hypothesis%20testing.ipynb)
+    - [Automatidata Statistical Review Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vTIvU1vYaVLioAkRncBUn1Ldh9cEwdAtBt_9ojftTCSAF5fDIYFbMBTdEGjYvOZVCtqft0M8UT9CF2m/pub?start=false&loop=false&delayms=3000&resourcekey=0-vi1uL-CPa_zHRWa7QjM0xQ&slide=id.g1e3a6309cc6_3_329)
+    - [Automatidata Statistical Project Python Section](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/1b5bf2803c884a51ddb35415b470bc0b8609b05b/Python/Automatidata%20project.ipynb)
