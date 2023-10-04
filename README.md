@@ -79,7 +79,8 @@ I bring a unique blend of skills in ethical data visualization and exploratory d
 
 - <h2>The Power of Statistics</h2>
  
-  - Obtained Skills: Statistics | Descriptive statistics | Calculate probability | Probability distributions | Applications of different sampling methods | Calculate sampling distributions | Construct & interpret confidence intervals | Hypothesis tests | 
+  - Obtained Skills: Statistics | Descriptive statistics | Calculate probability | Probability distributions | Applications of different sampling methods | Calculate sampling distributions | Construct & interpret confidence intervals | Hypothesis tests |
+  - [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/RYQ6RGRMXAJ5) 
   
   - <b>Portfolio Activities</b>
     
