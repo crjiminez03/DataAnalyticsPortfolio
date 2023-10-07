@@ -105,3 +105,4 @@ I bring a unique blend of skills in ethical data visualization and exploratory d
   - <b>Portfolio Activities</b>
 
     - [Evaluate Simple Linear Regression](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/54e5b9a421d38ec2542d7e30b86efd57d9607e38/Python/Evaluate%20simple%20linear%20regression.ipynb)
+    - [Run Simple Linear Regression](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/2b6c4815c712a791b4b5ca57805c44bab343ae88/Python/Run%20simple%20linear%20regression.ipynb)
