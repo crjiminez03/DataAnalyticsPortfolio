@@ -95,3 +95,11 @@ I bring a unique blend of skills in ethical data visualization and exploratory d
     - [TikTok Statistical Review Python Section](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/662c840013eba4322b5ff68ba5cffcf95babc0c4/Python/Course%204%20TikTok%20project%20lab.ipynb)
     - [Waze Statistical Review Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vTp8WwlF0v_ZnF6P9dWgN46B5Q5gKVOrZlhPkrIINa9tDuyLr3PiWNksu2oDBv9OK8vG5trwFvqIPdP/pub?start=false&loop=false&delayms=3000)
     - [Waze Statistical Review Python Section](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/edeedb5ad0f1c4c89da156ee37bc67e3a664ba70/Python/Course%204%20Waze%20project%20lab.ipynb)
+   
+
+
+- <h2>Regression Analysis: Simplify Complex Data Relationships</h2>
+ 
+  - Obtained Skills:
+ 
+  - <b>Portfolio Activities</b>
