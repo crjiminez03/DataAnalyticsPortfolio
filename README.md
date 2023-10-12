@@ -108,3 +108,4 @@ I bring a unique blend of skills in ethical data visualization and exploratory d
     - [Run Simple Linear Regression](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/2b6c4815c712a791b4b5ca57805c44bab343ae88/Python/Run%20simple%20linear%20regression.ipynb)
     - [Perform Multiple Linear Regression](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/7991de20802fcf28bea7c4ac043b51f1e14ac0d3/Python/Perform%20multiple%20linear%20regression.ipynb)
     - [Hypothesis Testing with Python](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/d272004e04027568d97cec195b51d47b5c549257/Python/Hypothesis%20testing%20with%20Python.ipynb)
+    - [Perform Logistic Regression](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/11c88760a4763136e590f9c19e4c78d072b71b32/Python/Perform%20logistic%20regression.ipynb)
