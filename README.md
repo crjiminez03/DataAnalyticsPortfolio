@@ -1,14 +1,14 @@
 <h1>Welcome to my Data Analytics Portfolio!</h1>
 
-👋Greetings,
+👋 Greetings,
 
 Christopher Jiminez, a seasoned 📊 Business Intelligence and Systems II Analyst with expertise in data analytics and cyber/network security. Currently on track to graduate with a B.S. in Data Analytics from WGU in March 2024. 
 
-💻Proficient in SQL, Tableau, Power BI, and Python, I've conducted impactful analyses on topics like Covid deaths and vaccinations. My portfolio showcases hands-on experience in project management, statistical analysis, and machine learning applications, reflecting a commitment to ethical data practices.
+💻 Proficient in SQL, Tableau, Power BI, and Python, I've conducted impactful analyses on topics like Covid deaths and vaccinations. My portfolio showcases hands-on experience in project management, statistical analysis, and machine learning applications, reflecting a commitment to ethical data practices.
 
-🎓Certified in foundational data science, Python programming, advanced data analytics, and statistical analysis, I offer a unique blend of technical proficiency and strategic thinking. Each certification is complemented by practical portfolio activities, demonstrating my ability to translate theoretical knowledge into real-world solutions.
+🎓 Certified in foundational data science, Python programming, advanced data analytics, and statistical analysis, I offer a unique blend of technical proficiency and strategic thinking. Each certification is complemented by practical portfolio activities, demonstrating my ability to translate theoretical knowledge into real-world solutions.
 
-🔍Explore my portfolio to witness a concise yet comprehensive narrative of my analytical rigor, strategic insights, and commitment to excellence.
+🔍 Explore my portfolio to witness a concise yet comprehensive narrative of my analytical rigor, strategic insights, and commitment to excellence.
 
 Best,
 
@@ -16,7 +16,7 @@ Christopher Jiminez.
 
 
 
-<h2>💾SQL Queries & Additional Tableau Visuals ( Covid Deaths & Vaccinations for 2020-2021)</h2>
+<h2>💾 SQL Queries & Additional Tableau Visuals ( Covid Deaths & Vaccinations for 2020-2021)</h2>
  
 - <b>📂 Files |📋 Queries |📊 Visuals |</b>
 
