@@ -12,6 +12,8 @@ Christopher Jiminez, a seasoned 📊 Business Intelligence and Systems II Analys
 
 
 
+
+
 <h2>💾 SQL Queries & Additional Tableau Visuals ( Covid Deaths & Vaccinations for 2020-2021)</h2>
  
 - <b>📂 Files |📋 Queries |📊 Visuals |</b>
