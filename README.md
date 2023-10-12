@@ -10,10 +10,6 @@ Christopher Jiminez, a seasoned 📊 Business Intelligence and Systems II Analys
 
 🔍 Explore my portfolio to witness a concise yet comprehensive narrative of my analytical rigor, strategic insights, and commitment to excellence.
 
-Best,
-
-Christopher Jiminez.
-
 
 
 <h2>💾 SQL Queries & Additional Tableau Visuals ( Covid Deaths & Vaccinations for 2020-2021)</h2>
