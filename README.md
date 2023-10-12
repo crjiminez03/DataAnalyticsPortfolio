@@ -16,14 +16,14 @@ Christopher Jiminez.
 
 
 
-<h2>SQL Queries & Additional Tableau Visuals ( Covid Deaths & Vaccinations for 2020-2021)</h2>
+<h2>💾SQL Queries & Additional Tableau Visuals ( Covid Deaths & Vaccinations for 2020-2021)</h2>
  
-- <b>Files | Queries | Visuals |</b>
+- <b>📂 Files |📋 Queries |📊 Visuals |</b>
 
-  - [Covid_Deaths Excel File](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/Excel/Covid_Deaths.xlsx)
-  - [Covid_Vaccinations Excel File](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/Excel/Covid_Vaccinations.xlsx)
-  - [Covid Tableau SQL Queries](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/SQL/Tableau%20Portfolio%20Project%20SQL%20Queries.sql)
-  - [Tableau Viz Covid Cases / Deaths From 2020-2021](https://public.tableau.com/views/CovidDashboard2020-2021_16961137057630/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+  - [📊 Covid_Deaths Excel File](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/Excel/Covid_Deaths.xlsx)
+  - [📊 Covid_Vaccinations Excel File](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/Excel/Covid_Vaccinations.xlsx)
+  - [📊 Covid Tableau SQL Queries](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/SQL/Tableau%20Portfolio%20Project%20SQL%20Queries.sql)
+  - [📊 Tableau Viz Covid Cases / Deaths From 2020-2021](https://public.tableau.com/views/CovidDashboard2020-2021_16961137057630/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
@@ -31,12 +31,12 @@ Christopher Jiminez.
 
 
 
-- <h2>Foundations of Data Science</h2>
+- <h2>📚 Foundations of Data Science</h2>
 
-  - Obtained Skills: Sharing Insights With Stakeholders | Effective Written Communication | Asking Effective Questions | Cross-Functional Team Dynamics | Project Management |
-  - [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/UA22YF728JV8)
+  - 🌐 Obtained Skills: Sharing Insights With Stakeholders | Effective Written Communication | Asking Effective Questions | Cross-Functional Team Dynamics | Project Management |
+  - [🔗 Certificate Link](https://www.coursera.org/account/accomplishments/certificate/UA22YF728JV8)
 
-  - <b>Portfolio Activities<b/>:
+  - <b>📄 Portfolio Activities<b/>:
     - [PACE Strategy Document](https://docs.google.com/document/d/e/2PACX-1vRHMsJQgB5iav5OHh9TWuQZUeAyS_5HdGOJI-WX-UkWIcU5XVS55C9CbJqdJSzetKCnJHD7SrfhjdXA/pub)
     - [RACI Matrix](https://docs.google.com/document/d/e/2PACX-1vSYBEjnODNEsyXYZfJP5jRzQ7Q3J_Vo5k_lCBhFpdqiKNSM3Yb03I6es94vCrc2r86bFMUvYjyPdms9/pub)
     - [Emails to different stakeholders](https://docs.google.com/document/d/e/2PACX-1vTop94Up1gbjImhDoz4kVke4bz_bkpPC1lanRMKaVsR8slEr4xC_iRF2dg2k0FgVoqP8FMSDk4kga7y/pub)
@@ -48,12 +48,12 @@ Christopher Jiminez.
 
 
 
-- <h2>Get Started with Python</h2>
+- <h2>🐍 Get Started with Python</h2>
 
-  - Obtained Skills: Using Comments to Enhance Code Readability | Python Programming | Jupyter Notebook | Data Visualization (DataViz) | Coding | Syntax & Semantics | Loops, Control Statements, String Manipulation | Data structures to store and organize data |
-  - [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/KM5JJ3U5J3WV)
+  - 📚 Obtained Skills: Using Comments to Enhance Code Readability | Python Programming | Jupyter Notebook | Data Visualization (DataViz) | Coding | Syntax & Semantics | Loops, Control Statements, String Manipulation | Data structures to store and organize data |
+  - [🔗Certificate Link](https://www.coursera.org/account/accomplishments/certificate/KM5JJ3U5J3WV)
 
-  - <b>Portfolio Activities</b>:
+  - <b>📄 Portfolio Activities</b>:
     - [Automatidata Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vTss58QwWBu0PAuQbYzH13tQYh448Q-xG8HeModqjnAF6-WBQ1j6sNCt5jeq1Ed_uVKVH1Lo3LNEulQ/pub?start=false&loop=false&delayms=3000)
     - [Automatidata Python Section](https://github.com/crjiminez03/GoogleAdvancedDataAnalytics/blob/4b81e961e3279094c732b6412d6b539a48eb2ec7/Activity_Course%202%20Automatidata%20project%20lab.ipynb)
     - [TikTok Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vTZSEWVlFNReCHWGgmaxbSwvCa0tTsSEuUgCryIsHTbJS_3NFUqtPEDAhXBU4paaFBFmFdCcWd2LlYs/pub?start=false&loop=false&delayms=3000)
@@ -63,12 +63,12 @@ Christopher Jiminez.
      
 
 
-- <h2>Go Beyond the Numbers: Translate Data into Insights</h2>
+- <h2>📊 Go Beyond the Numbers: Translate Data into Insights</h2>
 
-  - Obtained Skills: Python Programming | Tableau Software | Data Visualization (DataViz) | Effective Communication | Exploratory Data Analysis | EDA Process | Benefits of structuring & cleaning data | Tableau |
-  - [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/CQ4WEJ7SUPMH)
+  - 📚 Obtained Skills: Python Programming | Tableau Software | Data Visualization (DataViz) | Effective Communication | Exploratory Data Analysis | EDA Process | Benefits of structuring & cleaning data | Tableau |
+  - [🔗 Certificate Link](https://www.coursera.org/account/accomplishments/certificate/CQ4WEJ7SUPMH)
 
-  - <b>Portfolio Activities</b>:
+  - <b>📄 Portfolio Activities</b>:
     - [<b>Lightning Strikes in the U.S. Over the Last Decade</b>](https://public.tableau.com/views/Craftcompellingstories_16949761318150/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
     - [<b>Bike Rental Maintance Schedule(Impact of National Holidays on Bicycle Rentals in 2017 & 2018 for the Transportation Department in Seoul, South Korea)</b>](https://public.tableau.com/views/ActivityBuildaninteractivedashboard_16949962613530/SeoulBikeRentalsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
     - [<b>Seoul Bicycle Rental Traffic-Times of Standard Workdays (Removal of Bicycles from Circulation for Maintenance)</b>](https://public.tableau.com/views/ActivitySeoulbicyclerentaldatasetbargraph/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
@@ -85,12 +85,12 @@ Christopher Jiminez.
 
 
 
-- <h2>The Power of Statistics</h2>
+- <h2>📈 The Power of Statistics</h2>
  
-  - Obtained Skills: Statistics | Descriptive statistics | Calculate probability | Probability distributions | Applications of different sampling methods | Calculate sampling distributions | Construct & interpret confidence intervals | Hypothesis tests |
-  - [Certificate Link](https://www.coursera.org/account/accomplishments/certificate/RYQ6RGRMXAJ5) 
+  - 📚 Obtained Skills: Statistics | Descriptive statistics | Calculate probability | Probability distributions | Applications of different sampling methods | Calculate sampling distributions | Construct & interpret confidence intervals | Hypothesis tests |
+  - [🔗 Certificate Link](https://www.coursera.org/account/accomplishments/certificate/RYQ6RGRMXAJ5) 
   
-  - <b>Portfolio Activities</b>
+  - <b>📄 Portfolio Activities</b>
     
     - [Explore Confidence Intervals](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/4307662591cc71d95d048b9769dc2ba3484c13c7/Python/Explore%20confidence%20intervals.ipynb)
     - [Explore Descriptive Statistics](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/e190ee4c6ffe3ad101034b89fc7437d59b09282c/Python/Explore%20descriptive%20statistics.ipynb)
@@ -106,11 +106,11 @@ Christopher Jiminez.
    
 
 
-- <h2>Regression Analysis: Simplify Complex Data Relationships</h2>
+- <h2>📊 Regression Analysis: Simplify Complex Data Relationships</h2>
  
-  - Obtained Skills:
+  - 📚 Obtained Skills:
  
-  - <b>Portfolio Activities</b>
+  - <b>📄 Portfolio Activities</b>
 
     - [Evaluate Simple Linear Regression](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/54e5b9a421d38ec2542d7e30b86efd57d9607e38/Python/Evaluate%20simple%20linear%20regression.ipynb)
     - [Run Simple Linear Regression](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/2b6c4815c712a791b4b5ca57805c44bab343ae88/Python/Run%20simple%20linear%20regression.ipynb)
