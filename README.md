@@ -2,7 +2,7 @@
 
 👋Greetings,
 
-I'm Christopher Jiminez, a seasoned 📊 Business Intelligence and Systems II Analyst with expertise in data analytics and cyber/network security. Currently on track to graduate with a B.S. in Data Analytics from WGU in March 2024. 
+Christopher Jiminez, a seasoned 📊 Business Intelligence and Systems II Analyst with expertise in data analytics and cyber/network security. Currently on track to graduate with a B.S. in Data Analytics from WGU in March 2024. 
 
 💻Proficient in SQL, Tableau, Power BI, and Python, I've conducted impactful analyses on topics like Covid deaths and vaccinations. My portfolio showcases hands-on experience in project management, statistical analysis, and machine learning applications, reflecting a commitment to ethical data practices.
 
