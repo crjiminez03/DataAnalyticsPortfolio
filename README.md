@@ -50,7 +50,7 @@ Christopher Jiminez.
 
 - <h2>🐍 Get Started with Python</h2>
 
-  - 📚 Obtained Skills: Using Comments to Enhance Code Readability | Python Programming | Jupyter Notebook | Data Visualization (DataViz) | Coding | Syntax & Semantics | Loops, Control Statements, String Manipulation | Data structures to store and organize data |
+  - 🌐 Obtained Skills: Using Comments to Enhance Code Readability | Python Programming | Jupyter Notebook | Data Visualization (DataViz) | Coding | Syntax & Semantics | Loops, Control Statements, String Manipulation | Data structures to store and organize data |
   - [🔗Certificate Link](https://www.coursera.org/account/accomplishments/certificate/KM5JJ3U5J3WV)
 
   - <b>📄 Portfolio Activities</b>:
@@ -65,7 +65,7 @@ Christopher Jiminez.
 
 - <h2>📊 Go Beyond the Numbers: Translate Data into Insights</h2>
 
-  - 📚 Obtained Skills: Python Programming | Tableau Software | Data Visualization (DataViz) | Effective Communication | Exploratory Data Analysis | EDA Process | Benefits of structuring & cleaning data | Tableau |
+  - 🌐 Obtained Skills: Python Programming | Tableau Software | Data Visualization (DataViz) | Effective Communication | Exploratory Data Analysis | EDA Process | Benefits of structuring & cleaning data | Tableau |
   - [🔗 Certificate Link](https://www.coursera.org/account/accomplishments/certificate/CQ4WEJ7SUPMH)
 
   - <b>📄 Portfolio Activities</b>:
@@ -87,7 +87,7 @@ Christopher Jiminez.
 
 - <h2>📈 The Power of Statistics</h2>
  
-  - 📚 Obtained Skills: Statistics | Descriptive statistics | Calculate probability | Probability distributions | Applications of different sampling methods | Calculate sampling distributions | Construct & interpret confidence intervals | Hypothesis tests |
+  - 🌐 Obtained Skills: Statistics | Descriptive statistics | Calculate probability | Probability distributions | Applications of different sampling methods | Calculate sampling distributions | Construct & interpret confidence intervals | Hypothesis tests |
   - [🔗 Certificate Link](https://www.coursera.org/account/accomplishments/certificate/RYQ6RGRMXAJ5) 
   
   - <b>📄 Portfolio Activities</b>
@@ -108,7 +108,7 @@ Christopher Jiminez.
 
 - <h2>📊 Regression Analysis: Simplify Complex Data Relationships</h2>
  
-  - 📚 Obtained Skills:
+  - 🌐 Obtained Skills:
  
   - <b>📄 Portfolio Activities</b>
 
