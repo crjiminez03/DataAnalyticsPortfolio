@@ -22,6 +22,7 @@ Christopher Jiminez, a seasoned 📊 Business Intelligence and Systems II Analys
   - [📊 Covid_Vaccinations Excel File](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/Excel/Covid_Vaccinations.xlsx)
   - [📊 Covid Tableau SQL Queries](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/f348ec7080485e0b7759ca22f06b10b76a7473fe/SQL/Tableau%20Portfolio%20Project%20SQL%20Queries.sql)
   - [📊 Tableau Viz Covid Cases / Deaths From 2020-2021](https://public.tableau.com/views/CovidDashboard2020-2021_16961137057630/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+  - [[📊 Data Cleaning Excel File](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/25f8861eb94eb411b7ce14f99a071ec511f72370/Excel/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
 
 
 
