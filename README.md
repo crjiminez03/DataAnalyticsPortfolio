@@ -108,7 +108,8 @@ Christopher Jiminez, a seasoned 📊 Business Intelligence and Systems II Analys
 
 - <h2>📊 Regression Analysis: Simplify Complex Data Relationships</h2>
  
-  - 🌐 Obtained Skills:
+  - 🌐 Obtained Skills: Predictive Modeling | Statistical Analysis | Python Programming | Effective Communication | Regression Modeling | Linear & Logistic Regression | Regression Model Assumptions |
+  - [🔗 Certificate Link](https://www.coursera.org/account/accomplishments/certificate/BC63MYTGBCLU)
  
   - <b>📄 Portfolio Activities</b>
 
