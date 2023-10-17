@@ -121,3 +121,4 @@ Christopher Jiminez, a seasoned 📊 Business Intelligence and Systems II Analys
     - [Automatidata Regression Assumptions After Modeling Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vRemzxqiiJqeD9Qtl4yfuZ_jVHphsqiP2pIz_4IMB8U1L64p6eZlP5j4bWqyKf2lvcmuwuwY4PJP9Yb/pub?start=false&loop=false&delayms=3000)
     - [TikTok Logistic Regression Model Python Section](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/9c4f4ad27dfda284bf1f2afb0409e6aff17d00b7/Python/Course%205%20TikTok%20project.ipynb)
     - [TikTok Regression Analysis Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vS3TD5IxK3xZBkeQfkVGgrN8RHvAp61ysDZr6Y2VYcvhXo-wshftyKaRGyucMOcOIfiZGUZRVCcpDc6/pub?start=false&loop=false&delayms=3000)
+    - [Waze Binomial Logistic Regression Model Python Section](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/d647b1f5b84a151dca8f6a7a7073a78e76800b95/Python/Course%205%20Waze%20project.ipynb)
