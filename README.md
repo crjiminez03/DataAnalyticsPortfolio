@@ -129,7 +129,7 @@ Christopher Jiminez, a seasoned 📊 Business Intelligence and Systems II Analys
 
 - <h2>🤖 The Nuts and Bolts of Machine Learning</h2>
  
-  - 🌐 Obtained Skills: Naive Bayes Model | Unsupervised vs Supervised Learning | k-means algorithm in Python | decision tree models | Characterize bagging in machine learning | Random Forest Models | XGBoost Models | Tuning model parameters |
+  - 🌐 Obtained Skills: Feature Engineering | Naive Bayes Model | Unsupervised vs Supervised Learning | k-means algorithm in Python | decision tree models | Characterize bagging in machine learning | Random Forest Models | XGBoost Models | Tuning model parameters |
   - [🔗 Certificate Link]
  
   - <b>📄 Portfolio Activities</b>
