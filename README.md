@@ -124,3 +124,12 @@ Christopher Jiminez, a seasoned 📊 Business Intelligence and Systems II Analys
     - [TikTok Regression Analysis Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vS3TD5IxK3xZBkeQfkVGgrN8RHvAp61ysDZr6Y2VYcvhXo-wshftyKaRGyucMOcOIfiZGUZRVCcpDc6/pub?start=false&loop=false&delayms=3000)
     - [Waze Binomial Logistic Regression Model Python Section](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/d647b1f5b84a151dca8f6a7a7073a78e76800b95/Python/Course%205%20Waze%20project.ipynb)
     - [Waze Regression Modeling Results Executive Summary](https://docs.google.com/presentation/d/e/2PACX-1vQjPM5F4DlAn8F0vsqZjBkaK5VeTl6I71MRMEocswuPhGDjgZvykN29nGDj2kt_NcKjcP_dk1eAyEEd/pub?start=false&loop=false&delayms=3000)
+   
+
+
+- <h2>🤖 The Nuts and Bolts of Machine Learning</h2>
+ 
+  - 🌐 Obtained Skills: Naive Bayes Model | Unsupervised vs Supervised Learning | k-means algorithm in Python | decision tree models | Characterize bagging in machine learning | Random Forest Models | XGBoost Models | Tuning model parameters |
+  - [🔗 Certificate Link]
+ 
+  - <b>📄 Portfolio Activities</b>
