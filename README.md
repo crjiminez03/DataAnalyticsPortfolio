@@ -133,3 +133,5 @@ Christopher Jiminez, a seasoned 📊 Business Intelligence and Systems II Analys
   - [🔗 Certificate Link]
  
   - <b>📄 Portfolio Activities</b>
+
+    - [Perform Feature Engineering](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/4a542ec804fff3de4d372ca01a1c3db43f499912/Python/Perform%20feature%20engineering.ipynb)
