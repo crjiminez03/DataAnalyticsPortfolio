@@ -142,5 +142,5 @@ Christopher Jiminez, a seasoned 📊 Business Intelligence and Systems II Analys
 - <h2>📂Cybersecurity Portfolio & Websites🌐</h2>
 
   - [🔐💻Google Cybersecurity Professional Certificate](https://github.com/crjiminez03/GoogleCybersecurityPortfolio)
-  - [🔗LinkedIn](www.linkedin.com/in/christopher-jiminez-33a21562)
+  - [🔗LinkedIn](https://www.linkedin.com/in/christopher-jiminez-33a21562)
   - [📊Tableau](https://public.tableau.com/app/profile/christopher.jiminez/vizzes)
