@@ -136,6 +136,7 @@ Christopher Jiminez, a seasoned 📊 Business Intelligence and Systems II Analys
 
     - [Perform Feature Engineering](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/4a542ec804fff3de4d372ca01a1c3db43f499912/Python/Perform%20feature%20engineering.ipynb)
     - [Build a Naive Bayes Model](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/a1ac771f74b751c236cba990246f7d63ce8bf91a/Python/Build%20a%20Naive%20Bayes%20model.ipynb)
+    - [Build a K-means Model](https://github.com/crjiminez03/DataAnalyticsPortfolio/blob/ad1f7d80a062e99bd02611f1c60f644ccf07c3eb/Python/Build%20a%20K-means%20model.ipynb)
    
 
 
